@@ -601,7 +601,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-![](boot.png)
+![](boot.PNG)
 ### About us:
 ![](aboutuspage.png)
 ### Gallery:
